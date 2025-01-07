@@ -1,4 +1,4 @@
-# Hello! I'm Junjie Jin. 
+# Hello! I'm Junjie. 
 我是个蛮有趣的人。很感恩人生的所有际遇。世界这么大，感谢你来看我一眼。
 
 <!--
