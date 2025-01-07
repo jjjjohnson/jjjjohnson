@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hello! I'm Junjie Jin. 
+我是个蛮有趣的人。很感恩人生的所有际遇。世界这么大，感谢你来看我一眼。
 
 <!--
 **jjjjohnson/jjjjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
